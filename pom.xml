@@ -2,17 +2,17 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	
-	<groupId>com.mt</groupId>
-	<artifactId>maven-web-application</artifactId>
+	<groupId>com.posh-technologies</groupId>
+	<artifactId>posh-technologies</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	
-	<name>maven-web-application</name>
+	<name>posh-technologies</name>
 
-	<description>Maven Web Project for Java Project</description>
+	<description>Maven Web App for Java Project</description>
 
 	<organization>
-		<name>Mithun Technologies</name>
+		<name>posh-technologies</name>
 		<url>http://mithuntechnologies.com/</url>
 	</organization>
 
@@ -110,7 +110,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>maven-web-application</finalName>
+		<finalName>posh-technologies</finalName>
 		
 		<plugins>
 			<plugin>
@@ -130,7 +130,7 @@
 				<configuration>
 					<scanIntervalSeconds>10</scanIntervalSeconds>
 					<webApp>
-						<contextPath>/maven-web-application</contextPath>
+						<contextPath>/posh-technologies</contextPath>
 					</webApp>
 				</configuration>
 			</plugin>
@@ -143,7 +143,7 @@
 					<downloadSources>true</downloadSources>
 					<downloadJavadocs>true</downloadJavadocs>
 					<wtpversion>2.0</wtpversion>
-					<wtpContextName>maven-web-application</wtpContextName>
+					<wtpContextName>posh-technologies</wtpContextName>
 				</configuration>
 			</plugin>
 			

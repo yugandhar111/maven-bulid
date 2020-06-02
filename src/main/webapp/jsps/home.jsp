@@ -4,34 +4,32 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>MithunTechnologies- Home Page</title>
-<link href="images/mithunlogo.jpg" rel="icon">
+<title>Posh Technologies Pvt Ltd - Home Page</title>
+<!-- link href="images/mithunlogo.jpg" rel="icon" -->
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Technologies.</h1>
-<h1 align="center"> MSS- Very Good Training center for DevOps with AWS in Maratha Halli and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
+<h1 align="center">Welcome! to Posh Technologies Pvt Ltd.</h1>
+<h1 align="center"> MSS- Posh Technologies Pvt Ltd is a Outsourcing, Consulting, Service, and Product Development</h1>
 <hr>
 <div style="text-align: center;">
-	<span>
+	<!-- span>
 		<img src="images/mithunlogo.jpg" alt="" width="100">
-	</span>
+	</span -->
 	<span style="font-weight: bold;">
-		Mithun Technologies, 
-		Martha Halli, Above ICICI Bank, Beside Meghana Foods,
+		Posh Technologies,
 		Bangalore,
-		+91-9980923226,
-		devopstrainingblr@gmail.com
+		praveendevopsblr@gmail.com
 		<br>
-		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
+		<a href="mailto:praveendevopsblr@gmail.com">Mail to Posh Technologies</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Mithun Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2019 by <a href="http://mithuntechnologies.com/">Mithun Technologies</a> </small></p>
+<p align=center>Posh Technologies - Outsourcing, Consulting, Services, Product development.</p>
+<p align=center><small>Copyrights 2020 by <a href="http://mithuntechnologies.com/">Posh Technologies</a> </small></p>
 
 </body>
 </html>
