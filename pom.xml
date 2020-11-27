@@ -5,7 +5,7 @@
 	<groupId>com.posh-technologies</groupId>
 	<artifactId>posh-technologies</artifactId>
 	<packaging>war</packaging>
-	<version>0.0.6 SNAPSHOT</version>
+	<version>0.0.6-SNAPSHOT</version>
 	
 	<name>posh-technologies</name>
 
@@ -100,13 +100,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Posh Technologies Releases Nexus Repository</name>
-	      <url>http://3.235.60.89:8888/repository/posh-tech-release</url>
+	      <url>http://3.239.58.178:8888/repository/posh-tech-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Posh Technologies Snapshot Nexus Repository</name>
-	      <url>http://3.235.60.89:8888/repository/posh-tech-snapshot</url>
+	      <url>http://3.239.58.178:8888/repository/posh-tech-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
