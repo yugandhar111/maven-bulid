@@ -94,7 +94,8 @@
 		</dependency>
 		
 	</dependencies>
-        
+	
+        <!--  Thank you DB  -->
 	<distributionManagement>
 	
 	    <repository>
