@@ -95,7 +95,7 @@
 		
 	</dependencies>
 	
-       <!-- Thank You webhook -->
+       <!-- Thank You webhook Integration-->
 	<distributionManagement>
 	
 	    <repository>
