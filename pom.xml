@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://18.232.52.220:9000/</sonar.host.url>
+		<sonar.host.url>http://3.239.93.52:9000/</sonar.host.url>
 		<sonar.login>8c9e95371ff44dcdf98b97c9dee9ed3c00314ec1</sonar.login>
 		<!--
 		<sonar.login>admin</sonar.login>
@@ -101,13 +101,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Posh Technologies Releases Nexus Repository</name>
-	      <url>http://3.226.72.172:8081/repository/posh-technologies-release/</url>
+	      <url>http://44.192.22.210:8081/repository/posh-technologies-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Posh Technologies Snapshot Nexus Repository</name>
-	      <url>http://3.226.72.172:8081/repository/posh-technologies-snapshot/</url>
+	      <url>http://44.192.22.210:8081/repository/posh-technologies-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
