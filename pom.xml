@@ -101,13 +101,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Posh Technologies Releases Nexus Repository</name>
-	      <url>http://44.192.22.210:8081/repository/posh-technologies-release/</url>
+	      <url>http://18.221.20.59:8081/repository/maven-release1/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Posh Technologies Snapshot Nexus Repository</name>
-	      <url>http://44.192.22.210:8081/repository/posh-technologies-snapshot/</url>
+	      <url>http://18.221.20.59:8081/repository/maven-snapshot1/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
