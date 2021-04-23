@@ -5,7 +5,7 @@
 	<groupId>com.posh-technologies</groupId>
 	<artifactId>posh-technologies</artifactId>
 	<packaging>war</packaging>
-	<version>1.4-SNAPSHOT</version>
+	<version>1.5-SNAPSHOT</version>
 	
 	<name>posh-technologies</name>
 
@@ -101,13 +101,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Posh Technologies Releases Nexus Repository</name>
-	      <url>http://18.221.20.59:8081/repository/maven-release1/</url>
+	      <url>http:http://18.221.20.59:8081/repository/newproject-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Posh Technologies Snapshot Nexus Repository</name>
-	      <url>http://18.221.20.59:8081/repository/maven-snapshot1/</url>
+	      <url>http://18.221.20.59:8081/repository/newproject-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
