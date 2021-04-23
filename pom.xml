@@ -101,7 +101,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Posh Technologies Releases Nexus Repository</name>
-	      <url>http:http://18.221.20.59:8081/repository/newproject-release/</url>
+	      <url>http://18.221.20.59:8081/repository/newproject-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
