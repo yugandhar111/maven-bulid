@@ -5,7 +5,7 @@
 	<groupId>com.posh-technologies</groupId>
 	<artifactId>posh-technologies</artifactId>
 	<packaging>war</packaging>
-	<version>1.5 RELEASE</version>
+	<version>2.0 SNAPSHOT</version>
 	
 	<name>posh-technologies</name>
 
@@ -22,7 +22,7 @@
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
 		<sonar.host.url>http://18.218.21.214:9000/</sonar.host.url>
-		<sonar.login>e29170f0fd1e5a024f851a5dd760f00081581eae</sonar.login>
+		<sonar.login>6b13209d38b037f9180d10e8ccbfc310e2f21fd0</sonar.login>
 		<!--
 		<sonar.login>admin</sonar.login>
 		<sonar.password>posh@123</sonar.password> -->
@@ -101,13 +101,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Posh Technologies Releases Nexus Repository</name>
-	      <url>http://18.221.20.59:8081/repository/newproject-release/</url>
+	      <url>http://18.221.20.59:8081/repository/kiran-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Posh Technologies Snapshot Nexus Repository</name>
-	      <url>http://18.221.20.59:8081/repository/newproject-snapshot/</url>
+	      <url>http://18.221.20.59:8081/repository/kiran-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
