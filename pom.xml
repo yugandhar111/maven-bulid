@@ -2,17 +2,17 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	
-	<groupId>com.posh-technologies</groupId>
-	<artifactId>posh-technologies</artifactId>
+	<groupId>com.yugandhar-technologies</groupId>
+	<artifactId>yugandhar-technologies</artifactId>
 	<packaging>war</packaging>
 	<version>1.1-SNAPSHOT</version>
 	
-	<name>posh-technologies</name>
+	<name>yugandhar-technologies</name>
 
 	<description>Maven Web App for Java Projects</description>
 
 	<organization>
-		<name>posh-technologies</name>
+		<name>yugandhar-technologies</name>
 		<url>http://mithuntechnologies.com/</url>
 	</organization>
 
