@@ -5,7 +5,7 @@
 	<groupId>com.Bablu-technologies</groupId>
 	<artifactId>Bablu-technologies</artifactId>
 	<packaging>war</packaging>
-	<version>1.1-SNAPSHOT</version>
+	<version>1.2-SNAPSHOT</version>
 	
 	<name>Bablu-technologies</name>
 
