@@ -4,32 +4,32 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Posh Technologies Pvt Ltd - Home Page</title>
+<title>yuandhar Technologies Pvt Ltd - Home Page</title>
 <!-- link href="images/mithunlogo.jpg" rel="icon" -->
 </head>
 </head>
 <body>
-<h1 align="center">Welcome! to Posh Technologies Pvt Ltd.</h1>
-<h1 align="center"> MSS- Posh Technologies Pvt Ltd is a Outsourcing, Consulting, Service, and Product Development</h1>
+<h1 align="center">Welcome! to yugandhar Technologies Pvt Ltd.</h1>
+<h1 align="center"> MSS- yugandhar Technologies Pvt Ltd is a Outsourcing, Consulting, Service, and Product Development</h1>
 <hr>
 <div style="text-align: center;">
 	<!-- span>
 		<img src="images/mithunlogo.jpg" alt="" width="100">
 	</span -->
 	<span style="font-weight: bold;">
-		Posh Technologies,
+		yugandhar Technologies,
 		Bangalore,
-		praveendevopsblr@gmail.com
+		pulicharlayugandhar@gmail.com
 		<br>
-		<a href="mailto:praveendevopsblr@gmail.com">Mail to Posh Technologies</a>
+		<a href="mailto:praveendevopsblr@gmail.com">Mail to yugandhar Technologies</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Posh Technologies - Outsourcing, Consulting, Services, Product development.</p>
-<p align=center><small>Copyrights 2020 by <a href="http://mithuntechnologies.com/">Posh Technologies</a> </small></p>
+<p align=center>yugandhar Technologies - Outsourcing, Consulting, Services, Product development.</p>
+<p align=center><small>Copyrights 2020 by <a href="http://mithuntechnologies.com/">yugandhar Technologies</a> </small></p>
 
 </body>
 </html>
