@@ -5,7 +5,7 @@
 	<groupId>com.yugandhar-technologies</groupId>
 	<artifactId>yugandhar-technologies</artifactId>
 	<packaging>war</packaging>
-	<version>1.1-SNAPSHOT</version>
+	<version>1.3-SNAPSHOT</version>
 	
 	<name>yugandhar-technologies</name>
 
@@ -21,8 +21,8 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://18.218.21.214:9000/</sonar.host.url>
-		<sonar.login>e29170f0fd1e5a024f851a5dd760f00081581eae</sonar.login>
+		<sonar.host.url>http://18.222.115.253:9000/</sonar.host.url>
+		<sonar.login>5731d41c78881e9daa53da69acb373b1d3cb3867</sonar.login>
 		<!--
 		<sonar.login>admin</sonar.login>
 		<sonar.password>posh@123</sonar.password> -->
@@ -101,13 +101,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Posh Technologies Releases Nexus Repository</name>
-	      <url>http://44.192.22.210:8081/repository/posh-technologies-release/</url>
+	      <url>http://18.216.48.91:8081/repository/yugandhar-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Posh Technologies Snapshot Nexus Repository</name>
-	      <url>http://44.192.22.210:8081/repository/posh-technologies-snapshot/</url>
+	      <url>http://18.216.48.91:8081/repository/yugandhar-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
